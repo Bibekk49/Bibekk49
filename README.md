@@ -60,6 +60,11 @@
 </p>
 
 ---
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/bibekk49/bibekk49/output/snake.svg" alt="Snake animation" />
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!;" />
